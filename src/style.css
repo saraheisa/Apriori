@@ -1,0 +1,6 @@
+.table-row-cell:odd{
+-fx-background-color: #2A93D5;
+}
+.table-row-cell:even{
+-fx-background-color: #FFFFFF;
+}

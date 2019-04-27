@@ -1,0 +1,50 @@
+skirt blouse socks
+boots blouse skirt
+dress socks sneakers
+tshirt trousers shoes
+trousers socks cap
+skirt blouse shoes socks
+dress trousers boots socks
+skirt tshirt dress boots
+tshirt trousers boots cap
+skirt blouse sneakers socks
+sneakers shoes boots cap
+tshirt skirt dress
+dress boots socks
+dress shoes sneakers boots
+cap socks skirt
+dress sneakers socks cap
+skirt blouse socks trousers
+cap boots dress socks
+tshirt shoes cap socks sneakers
+trousers shoes cap blouse
+shoes cap
+skirt
+tshirt shoes blouse
+cap dress
+dress boots
+skirt socks
+sneakers
+boots socks
+cap tshirt
+cap
+dress blouse sneakers
+socks shoes
+skirt socks
+boots socks cap
+socks cap
+skirt dress trousers blouse boots
+cap skirt
+sneakers cap
+blouse tshirt
+blouse cap
+sneakers cap
+tshirt
+shoes
+dress
+skirt
+cap dress
+shoes boots
+boots cap
+trousers tshirt
+sneakers skirt tshirt dress cap blouse socks
